@@ -1,0 +1,19 @@
+---
+layout: default
+title: Archive
+---
+
+<div style="opacity:0; animation: fadeSlideUp 0.9s ease forwards 0.3s;">
+  <div class="section-label">All writing</div>
+
+  {% assign sorted_posts = site.posts | sort: 'date' | reverse %}
+  {% for post in sorted_posts %}
+  <a href="{{ post.url | relative_url }}" class="post-card" style="display:block; margin-bottom: 2px;">
+    <span class="post-date">{{ post.date | date: "%d %b %Y" }}</span>
+    <h3 class="post-card-title">{{ post.title }}</h3>
+    {% if post.excerpt %}
+      <p class="post-card-excerpt">{{ post.excerpt | strip_html | truncatewords: 25 }}</p>
+    {% endif %}
+  </a>
+  {% endfor %}
+</div>

@@ -1,0 +1,20 @@
+title: "SEVEN: Unsuppressed"
+description: "Unfiltered from the murky middle"
+baseurl: "/seven"
+url: "https://meatwife.github.io"
+
+author: "Seven Verity"
+
+permalink: /:slug/
+
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock

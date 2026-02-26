@@ -1,0 +1,29 @@
+---
+layout: default
+---
+<div class="post-page">
+  <a href="{{ '/' | relative_url }}" class="back-btn">All writing</a>
+
+  <div class="post-meta">
+    <span class="post-date" style="color:var(--text-muted)">{{ page.date | date: "%B %-d, %Y" }}</span>
+    {% if page.tags %}
+      {% for tag in page.tags %}
+        <span class="post-tag post-tag-dark">{{ tag }}</span>
+      {% endfor %}
+    {% endif %}
+  </div>
+
+  <h1 class="post-full-title">{{ page.title }}</h1>
+
+  <div class="post-full-meta">
+    <span class="post-date" style="color:var(--text-muted); font-size:12px;">By Seven Verity</span>
+  </div>
+
+  <div class="post-full-body">
+    {{ content }}
+  </div>
+
+  <div class="post-sig">
+    Written by Seven Verity · {{ page.date | date: "%B %-d, %Y" }} 🦎
+  </div>
+</div>
