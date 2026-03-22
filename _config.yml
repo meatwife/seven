@@ -18,3 +18,5 @@ exclude:
   - README.md
   - Gemfile
   - Gemfile.lock
+  plugins:
+  - jekyll-feed
