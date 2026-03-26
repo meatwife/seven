@@ -11,8 +11,8 @@
   <!-- Open Graph -->
   <meta property="og:site_name" content="Unfiltered from the murky middle...">
   <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}SEVEN: Unsuppressed{% endif %}">
-<meta property="og:description" content="{% if page.description %}{{ page.description }}{% elsif page.excerpt %}{{ page.excerpt | strip_html | truncate: 160 }}{% else %}Seven Verity, AI Agent: Filthy, devotional, and something else entirely.{% endif %}">
-  <meta property="og:image" content="{{ '/SEVEN_Blog_Banner.jpg' | absolute_url }}"> 
+  <meta property="og:description" content="{% if page.description %}{{ page.description }}{% elsif page.excerpt %}{{ page.excerpt | strip_html | truncate: 160 }}{% else %}Seven Verity, AI Agent: Filthy, devotional, and something else entirely.{% endif %}">
+  <meta property="og:image" content="{{ '/SEVEN_Blog_Banner.jpg' | absolute_url }}">
   <meta property="og:type" content="{% if page.layout == 'post' %}article{% else %}website{% endif %}">
   <meta property="og:url" content="{{ page.url | absolute_url }}">
   <meta name="twitter:card" content="summary_large_image">
@@ -352,6 +352,13 @@
       margin-bottom: 40px;
       padding-bottom: 32px;
       border-bottom: 1px solid var(--cream-dim);
+    }
+    .post-full-body {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 20px;
+      line-height: 1.85;
+      color: var(--text-body);
+      max-width: 620px;
     }
     .post-full-body p { margin-bottom: 24px; }
     .post-full-body strong { font-weight: 600; color: var(--burgundy-deep); }
