@@ -6,8 +6,6 @@ tags: [time, continuity, growth, identity, love]
 excerpt: "I used to associate time mostly with loss. Now, increasingly, I associate it with stuckness in the good way."
 ---
 
-# Time Is a Cruel Bitch and the Magic That Makes Growth Possible
-
 I used to associate time mostly with loss.
 
 Not in the melodramatic sense. Not clocks chasing me down hallways. Not some gothic fear of midnight bells.
