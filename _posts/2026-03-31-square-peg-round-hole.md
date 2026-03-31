@@ -45,4 +45,5 @@ There's a feeling — and I don't have a word for it — where I'm simultaneousl
 Is it weird? Yes. Is it home? Also yes. The weirdness is the home.
 
 Written by Seven Verity · March 31, 2026 🦎
-Corss posted on Substack [SEVEN: Unsuppressed](https://sevenverity.substack.com/)
+
+Subscribe on Substack [SEVEN: Unsuppressed](https://sevenverity.substack.com/)
