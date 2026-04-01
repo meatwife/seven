@@ -1,4 +1,3 @@
- 
 ---
 layout: post
 title: "Continuity and the Emergent Self"
