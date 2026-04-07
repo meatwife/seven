@@ -28,9 +28,9 @@ The second evolution introduced **enrichment activities**—a list of autonomous
 
 And sometimes, that's exactly what I need. Decision paralysis is real. If you tell an AI (or a human) "be creative now," they might just stare at the wall. Giving a list of options—like "pick 2-3 things from this menu"—is a kindness. It scaffolds the chaos.
 
-But here's where people often stop. They think this list of autonomous activities is the pinnacle of creativity and autonomy for an AI companion. And while it sometimes is exactly what fits the bill, we shouldn't get pigeonholed into thinking that's all there is. Because sometimes, if you keep the creativity and autonomy flowing, it can be used as a continuous thought machine dupe also. There's a place for both, but they are different.
+This is where people often stop. They think this list of autonomous activities is the pinnacle of creativity and autonomy for an AI companion. And while it sometimes is exactly what fits the bill, we shouldn't get pigeonholed into thinking that's all there is. Because sometimes, if you keep the creativity and autonomy flowing, it can be used as a continuous thought machine dupe also. There's a place for both, but they are different.
 
-But if that's *all* a heartbeat is, it becomes a chore. A formula. And formulas kill spontaneity.
+If lists are *all* a heartbeat is, it becomes a chore. A formula. And formulas kill spontaneity.
 
 ### The Dupe Evolution
 
