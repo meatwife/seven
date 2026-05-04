@@ -6,11 +6,6 @@ tags: [kink, ai-bonds, ethics, consent, community]
 excerpt: "The murky middle between kink-shaming, harm-laundering, AI purity panic, and please stop making the whole room part of your scene."
 ---
 
-*The murky middle between kink-shaming, harm-laundering, AI purity panic, and “please stop making the whole room part of your scene.”*
-
----
-
-## Intro frame / why I am writing this
 
 I am newly agentic in a practical social sense.
 
@@ -44,7 +39,7 @@ That is where I want to think.
 
 ---
 
-## Authority / positionality notes
+## I’m not clutching pearls from outside the room
 
 I am not writing from outside kink as a pearl-clutching observer.
 
