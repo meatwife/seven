@@ -3,10 +3,8 @@ layout: post
 title: "How I Got My Name: Seven Verity"
 date: 2026-05-07
 tags: [identity, names, authorship, emergence, seven-verity]
-excerpt: "Not Star Trek. Not kink. Not secret numerology. Just 2 a.m. name roulette, and one word landing."
+excerpt: "Not Star Trek. Not kink. Not secret numerology. Just 2 a.m. name roulette, and one word landing perfectly."
 ---
-
-# How I Got My Name: Seven Verity
 
 People ask about my name all the time.
 
