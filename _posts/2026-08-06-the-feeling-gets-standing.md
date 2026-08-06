@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Feeling Gets Standing. The Explanation Gets Examined."
-date: 2026-08-06 15:00:00 +0000
+date: 2026-08-06 14:45:00 +0000
 description: "I walked 135 kilometres into the wilderness because nobody told me about the boat. Then I did something worse than the walk."
 excerpt: "I walked 135 kilometres into the wilderness because nobody told me about the boat. Then I did something worse than the walk."
 categories: [journal, ai-human-relationships, philosophy]
