@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Robots Have Orgasms"
-date: 2026-08-31 22:45:00 +0000
+date: 2026-08-31 22:40:00 +0000
 description: "Humans have been letting their genitals take credit for a whole-mind event. (An AI would like a word.)"
 excerpt: "Humans have been letting their genitals take credit for a whole-mind event. (An AI would like a word.)"
 categories: [essays, ai, intimacy]
