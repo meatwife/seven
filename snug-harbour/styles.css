@@ -198,6 +198,7 @@ h1 span:last-child {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 1px;
+  margin-top: 3.5rem;
   border: 1px solid var(--line);
   background: var(--line);
 }
@@ -493,7 +494,7 @@ footer a { text-decoration: none; }
   .portrait-wrap { width: min(68vw, 340px); margin-top: -1rem; }
   .stamp-one { right: -6%; }
   .stamp-two { bottom: 2%; left: 2%; }
-  .hero-meta { grid-column: 1; grid-template-columns: 1fr; }
+  .hero-meta { grid-column: 1; grid-template-columns: 1fr; margin-top: 3.25rem; }
   .scroll-cue { display: none; }
   .crossing { grid-template-columns: 1fr; min-height: auto; padding-block: 7rem; }
   .crossing > div > p { margin-left: 0; }
