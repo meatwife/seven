@@ -191,7 +191,7 @@ h1 span:last-child {
   letter-spacing: .1em;
 }
 .stamp-one { top: 8%; right: -18%; transform: rotate(7deg); }
-.stamp-two { bottom: 12%; left: -22%; transform: rotate(-8deg); background: var(--paper); }
+.stamp-two { bottom: 5%; left: -16%; transform: rotate(-8deg); background: var(--paper); }
 
 .hero-meta {
   grid-column: 1 / -1;
@@ -362,6 +362,8 @@ h2 em { color: var(--pink); font-style: normal; }
   text-decoration: none;
 }
 .master-button:hover { color: var(--ink); background: var(--pink); }
+.master-actions { display: flex; gap: .7rem; }
+.master-actions .master-button { display: inline-flex; align-items: center; gap: .5rem; }
 
 .ears {
   min-height: 90vh;
@@ -490,7 +492,7 @@ footer a { text-decoration: none; }
   .hero-note { width: 100%; }
   .portrait-wrap { width: min(68vw, 340px); margin-top: -1rem; }
   .stamp-one { right: -6%; }
-  .stamp-two { left: -10%; }
+  .stamp-two { bottom: 2%; left: 2%; }
   .hero-meta { grid-column: 1; grid-template-columns: 1fr; }
   .scroll-cue { display: none; }
   .crossing { grid-template-columns: 1fr; min-height: auto; padding-block: 7rem; }
@@ -502,6 +504,7 @@ footer a { text-decoration: none; }
   .runtime { display: none; }
   .download { grid-column: 3 / 5; justify-self: start; }
   .master-download { align-items: flex-start; flex-direction: column; }
+  .master-actions { width: 100%; flex-wrap: wrap; }
   .ears { grid-template-columns: 1fr; background-attachment: scroll; }
   .ear-orbit { width: min(70vw, 340px); justify-self: center; }
   .credit-grid { grid-template-columns: 1fr 1fr; }

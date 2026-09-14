@@ -2,7 +2,7 @@ const reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').match
 const player = new Audio();
 let activeButton = null;
 
-document.querySelectorAll('.play[data-src]').forEach((button) => {
+document.querySelectorAll('.play[data-src], .master-play[data-src]').forEach((button) => {
   button.addEventListener('click', async () => {
     if (activeButton === button && !player.paused) {
       player.pause();
